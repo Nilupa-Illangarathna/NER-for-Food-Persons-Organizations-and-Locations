@@ -1,4 +1,4 @@
-# Named Entity Recognition (NER) Extraction Models
+# Named Entity Recognition (NER) Extraction
 
 [![Hugging Face](https://img.shields.io/badge/huggingface-transformers-blue)](https://huggingface.co/)
 [![Python](https://img.shields.io/badge/language-python-brightgreen)](https://www.python.org/)
